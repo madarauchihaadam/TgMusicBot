@@ -1,4 +1,4 @@
-<h1 align="center">🎵 TGMusic Bot (Go)</h1>
+<h1 align="center">🎵 MADARA MUSIC BOT (Go)</h1>
 
 <p align="center">
   <a href="https://golang.org/">
